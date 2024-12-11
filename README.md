@@ -1,6 +1,11 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
+git clone <<link>> through SSH
+git add .
+git commit -m "message"
+git push origin master
+
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started

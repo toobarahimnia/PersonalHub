@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "A personal website to showcase academic and career achievements, history and experience."
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I’m a recent master’s graduate from McGill University, where I had the chance to work with [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) in McGill’s Graphics Lab (MGL). My research focused on using deep learning to tackle problems in fluid animation and partial differential equations. I also spent time at [Mila](https://mila.quebec/en) (the Montreal Institute for Learning Algorithms) working on natural language processing, computer vision, and recommender systems.
+I am a master's graduate from McGill University with a background in AI research and engineering. During my graduate studies, I collaborated with Prof. [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) at McGill's Graphics Lab (MGL), focusing on applying deep learning to fluid animation and solving partial differential equations. Additionally, I conducted research at [Mila](https://mila.quebec/en), where I explored natural language processing, computer vision, and recommender systems.
 
-Before my master’s, I worked as a data engineer at Telus and earned my bachelor’s degree in electrical engineering from McGill. Over the years, I’ve explored a range of topics in AI, but I’ve recently been drawn to areas like natural language processing, graph machine learning, information extraction, and computer vision.
+Before pursuing my master's degree, I worked as a data engineer at Telus, and I earned my bachelor's degree in electrical engineering, also from McGill University.
 
-I’m always curious about finding practical, innovative ways to solve interesting challenges in AI and engineering. It’s exciting to work on ideas that can make a real difference!
+My research interests span a wide range of AI topics, but I am particularly drawn to natural language processing, graph machine learning, information extraction, and computer vision. My overarching goal is to develop practical, innovative solutions for complex challenges in AI and engineering.
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
