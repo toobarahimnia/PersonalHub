@@ -5,23 +5,26 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Papers"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://toobarahimnia.github.io/CognitiveDiscoveries/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
+  # - title: "Books"
+  #   url: /portfolio/
+
+  # - title: "Open Source"
+  #   url: /open_source/
+        
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Art Work"
+    url: https://toobarahimnia.github.io/portfolio/project_5.html
