@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tooba Rahimnia"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tooba Rahimnia"
 description              : &description "personal description"
@@ -22,22 +22,22 @@ repository               : "toobarahimnia.github.io/PersonalHub/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tooba Rahimnia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning Research & Development"
+  location         : "Montréal, CA"
+  employer         : "McGill University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "trahimnia@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=lsaChCgAAAAJ&view_op=list_works&gmla=AFix5MavU4oZCHGR9kYDQ5M0StCTXvuEa44fY9eO2kpYvaYqFUvWan42sXcGOZhShDAMsgda0f3eZJGOFy_ppbEW"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "toobarahimnia"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tooba-rahimnia"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
