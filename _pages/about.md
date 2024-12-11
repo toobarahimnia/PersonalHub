@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's graduate from McGill University with a background in AI research and engineering. During my graduate studies, I collaborated with Prof. [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) at McGill's Graphics Lab (MGL), focusing on applying deep learning to fluid animation and solving partial differential equations. Additionally, I conducted research at [Mila](https://mila.quebec/en), where I explored natural language processing, computer vision, and recommender systems.
+I am a master's graduate from McGill University with a background in AI research and engineering. During my graduate studies, I collaborated with Prof. [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) at McGill's Graphics Lab (MGL), focusing on applying deep learning to fluid animation and solving partial differential equations. Over the past three years, I also spent time at [Mila](https://mila.quebec/en) working on natural language processing, computer vision, and recommender systems.
 
 Before pursuing my master's degree, I worked as a data engineer at Telus, and I earned my bachelor's degree in electrical engineering, also from McGill University.
 
