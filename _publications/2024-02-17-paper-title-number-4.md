@@ -2,7 +2,7 @@
 title: "Beyond Grids: Neural Networks in Fluid Dynamics"
 collection: publications
 category: preprint
-permalink: /publication/abc
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Master's thesis paper.'
 date: 2024-04-15
 # venue: 'GitHub Journal of Bugs'
