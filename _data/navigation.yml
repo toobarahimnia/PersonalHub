@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Papers"
+  - title: "Research"
     url: /publications/
   
-  - title: "Blog Posts"
+  - title: "Blog"
     url: https://toobarahimnia.github.io/CognitiveDiscoveries/
 
   # - title: "Talks"
