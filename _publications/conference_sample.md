@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Paper Title Number 4"
 collection: publications
 category: conferences # must include feature
@@ -14,4 +14,4 @@ The contents above will be part of a list of publications, if the user clicks th
 
 # 2024-02-17-paper-title-number-4
 
-# conference sample
+# conference sample -->
