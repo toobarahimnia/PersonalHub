@@ -1,7 +1,7 @@
 ---
 title: "From RNNs to Transformers: A Gentle Review on Modern NLP Models"
 collection: publications
-category: manuscripts # must include feature
+# category: manuscripts # must include feature
 permalink: /publication/modern-nlp-reviews
 excerpt: 'Review paper'
 date: 2024-10-20
