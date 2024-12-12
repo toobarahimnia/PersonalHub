@@ -7,7 +7,7 @@ excerpt: 'Master's thesis'
 date: 2024-04-15
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://toobarahimnia.github.io/PersonalHub/files/NLP_Paper.pdf'
+paperurl: 'https://toobarahimnia.github.io/PersonalHub/files/Thesis_Paper.pdf'
 # citation: 'Rahimnia, Tooba. (2024). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
