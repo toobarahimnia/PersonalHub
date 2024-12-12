@@ -18,5 +18,3 @@ Fluid mechanics simulation is a crucial domain in real-world simulation, address
 learning solution, distinct from traditional numerical approaches, training our model to comprehend fluid system behavior, thereby expediting the determination of fluid pressure values.
 
 
-
-
