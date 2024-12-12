@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/masters
 excerpt: 'Master's Thesis'
 date: 2024-04-15
-# venue: 'Master's Thesis'
+venue: 'Journal 2'
 # slidesurl: ''
 paperurl: 'https://toobarahimnia.github.io/PersonalHub/files/Thesis_Paper.pdf'
 citation: 'Rahimnia, Tooba (2024)'
