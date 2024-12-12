@@ -3,8 +3,8 @@ title: "Beyond Grids: Neural Networks in Fluid Dynamics"
 collection: publications
 category: manuscripts # must include feature
 permalink: /publication/deeplearning-for-fluid-simulation
-excerpt: 'Review paper'
-date: 2024-10-21
+excerpt: 'Master's thesis'
+date: 2024-04-15
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://toobarahimnia.github.io/PersonalHub/files/NLP_Paper.pdf'
